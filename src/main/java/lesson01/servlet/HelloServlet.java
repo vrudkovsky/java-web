@@ -1,6 +1,4 @@
-package servlet;
-
-import service.Calculator;
+package lesson01.servlet;
 
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServlet;

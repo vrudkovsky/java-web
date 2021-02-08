@@ -1,4 +1,4 @@
-package service;
+package lesson01.service;
 
 public class Calculator {
     public int add(int a, int b) {

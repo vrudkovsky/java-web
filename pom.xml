@@ -38,6 +38,11 @@
             <artifactId>jetty-servlet</artifactId>
             <version>9.4.36.v20210114</version>
         </dependency>
+        <dependency>
+            <groupId>org.freemarker</groupId>
+            <artifactId>freemarker</artifactId>
+            <version>2.3.29</version>
+        </dependency>
 
     </dependencies>
 
